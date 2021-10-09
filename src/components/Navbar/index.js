@@ -16,7 +16,7 @@ const Navbar = () => {
                 <NavMenu>
                     <NavItem>
                       <NavLinks to="about">
-                      About
+                      About Me
                       </NavLinks>  
                     </NavItem>
                 </NavMenu>
